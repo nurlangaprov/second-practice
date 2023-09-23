@@ -2,4 +2,25 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
+}
+
+.kamera{
+    width: 44.04px;
+height: 57px;
+flex-shrink: 0;
+}
+ 
+.text{
+    width: 224.045px;
+height: 49.235px;
+flex-shrink: 0;
+color: var(--3-a-68-b-8, #3A68B8);
+}
+
+.text1{
+    width: 47px;
+height: 34.941px;
+flex-shrink: 0;
+
 }
